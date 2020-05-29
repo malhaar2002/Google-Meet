@@ -4,8 +4,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 import pyttsx3
 
-id = "malhaar144211@dps45gurgaon.org"
-password = "he110dps"
+id = "**********"
+password = "********"
 
 chromedriver = r"C:\Users\Malhaar\Downloads\chromedriver_win32 (1)\chromedriver.exe"
 driver = webdriver.Chrome(chromedriver)
